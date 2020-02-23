@@ -1,1 +1,2 @@
-Brute Atack Pass list creater https://www.Hackthe.ml
+Brute Atack Pass list creater 
+http://www.hackthe.ml/
