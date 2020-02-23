@@ -1,2 +1,2 @@
 Brute Atack Pass list creater 
-http://www.hackthe.ml/
+http://www.hackthe.ml/crunch
